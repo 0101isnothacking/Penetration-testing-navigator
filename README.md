@@ -29,7 +29,9 @@ Visual Notes: Easy-to-read diagrams and cheat sheets you can look at quickly whi
 # How to Use This
 
 **Step 1:** clone the repository: git clone https://github.com/01011isnothacking/Penetration-testing-navigator.git
+
 **Step 2:** Change the obsidian folder to .obsidian
+
 **Step 3:** Obsidian: Open the project inside Obsidian if you prefer interactive visual mind maps.
 
 
