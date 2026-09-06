@@ -15,11 +15,10 @@ This is my personal collection of notes and methodology for penetration testing.
 8. Reporting — Document what was found and how it was done.
 
 # How to Use
-Clone the repository:
-
-1. git clone https://github.com/01011isnothacking/Penetration-testing-navigator.git
-2. Rename the obsidian folder to .obsidian.
-3. Open the folder in Obsidian to use the notes and mind maps.
+1. Clone the repository:
+2. git clone https://github.com/01011isnothacking/Penetration-testing-navigator.git
+3. Rename the obsidian folder to .obsidian.
+4. Open the folder in Obsidian to use the notes and mind maps.
 
 # Goal
 Keep things simple, stay organized, and avoid missing important steps during testing.
