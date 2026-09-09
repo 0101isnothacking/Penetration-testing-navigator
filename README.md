@@ -16,7 +16,7 @@ This is my personal collection of notes and methodology for penetration testing.
 
 # How to Use
 1. Clone the repository:
-2. git clone https://github.com/01011isnothacking/Penetration-testing-navigator.git
+2. git clone https://github.com/0101isnothacking/Penetration-testing-navigator.git
 3. Rename the obsidian folder to .obsidian
 5. Open the folder in Obsidian to use the notes and mind maps.
 
